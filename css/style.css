@@ -11,6 +11,7 @@ body{
 }
 .calculator-box{
     max-width: 320px;
+    min-width: 275px;
     margin: 40px auto;
     border-radius: 8px;
     overflow: hidden;
